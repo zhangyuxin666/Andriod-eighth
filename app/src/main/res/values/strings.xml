@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">张雨鑫2024110548</string>
+    <string name="screen_title">张雨鑫2024110548</string>
+    <string name="screen_subtitle">网络天气应用</string>
+    <string name="screen_tag">实验八 · Volley / Gson / 天气 API</string>
+    <string name="search_hint">搜索城市名或城市代码，如：北京、101030100</string>
+    <string name="loading_cities">正在后台线程读取本地城市列表…</string>
+    <string name="loading_weather">正在请求天气数据…</string>
+    <string name="city_list_title">全国城市</string>
+    <string name="section_forecast">未来 7 天预报</string>
+    <string name="source_note">数据来源：t.weather.itboy.net · 城市列表：citycode.json</string>
+    <string name="retry">重新加载</string>
+    <string name="back">返回</string>
+</resources>

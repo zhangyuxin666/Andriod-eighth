@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_dark">#0B2545</color>
+    <color name="brand">#1B4F9C</color>
+    <color name="brand_mid">#2E6FD0</color>
+    <color name="brand_light">#4A97F0</color>
+    <color name="accent">#FFB020</color>
+    <color name="page_bg">#F1F5FB</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#14243B</color>
+    <color name="text_secondary">#7B8AA0</color>
+    <color name="text_on_brand">#FFFFFF</color>
+    <color name="header_sub">#C6DAF7</color>
+    <color name="header_tag">#A8C6F0</color>
+    <color name="search_hint">#9AA9BF</color>
+    <color name="chip_bg">#EAF2FF</color>
+    <color name="band_bg">#E7EEF8</color>
+    <color name="divider">#E8EEF7</color>
+    <color name="good">#1FA971</color>
+    <color name="warn">#E79020</color>
+    <color name="bad">#E45B5B</color>
+</resources>
